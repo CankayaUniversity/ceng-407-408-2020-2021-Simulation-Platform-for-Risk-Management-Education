@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\dilan\\Documents\\GitHub\\ceng-407-408-2020-2021-Simulation-Platform-for-Risk-Management-Education\\HRSim\\Source\\HRSim\\HRSim.Build.cs",
-		"C:\\Users\\dilan\\Documents\\GitHub\\ceng-407-408-2020-2021-Simulation-Platform-for-Risk-Management-Education\\HRSim\\Source\\HRSim.Target.cs",
-		"C:\\Users\\dilan\\Documents\\GitHub\\ceng-407-408-2020-2021-Simulation-Platform-for-Risk-Management-Education\\HRSim\\Source\\HRSimEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.1"
-}
